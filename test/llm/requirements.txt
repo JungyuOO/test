@@ -1,0 +1,3 @@
+groq # LLM Api 호출
+python-dotenv # api key 
+jupyter # ipynb test 용
